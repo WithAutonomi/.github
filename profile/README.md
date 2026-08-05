@@ -9,6 +9,7 @@ holding the keys. Built by MaidSafe over 20 years; stewarded by the Autonomi Fou
 - **Build on it** - the SDK and a quickstart: [docs.autonomi.com](https://docs.autonomi.com)
 - **Read the whitepaper** - [autonomi.com/whitepaper](https://autonomi.com/whitepaper)
 - **Try it** - the app and Indelible at [autonomi.com](https://autonomi.com)
+- **Point your agent at it** - llms.txt and clean markdown docs: [autonomi-llm-docs](https://github.com/WithAutonomi/autonomi-llm-docs)
 - **Join the community** - [Discord](https://discord.gg/autonomi)
 
 ### The core repositories
