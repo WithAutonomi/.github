@@ -24,4 +24,4 @@ holding the keys. Built by MaidSafe over 20 years; stewarded by the Autonomi Fou
 ### Why it's different
 Post-quantum end to end (ML-KEM-768, ML-DSA-65, ChaCha20-Poly1305, BLAKE3),
 content-addressed and self-encrypting, permanent, and owned by no company or
-contract. Open source - see each repo for its licence. Everything's here - just build.
+contract. Open source, dual-licensed MIT / Apache-2.0. Everything's here - just build.
